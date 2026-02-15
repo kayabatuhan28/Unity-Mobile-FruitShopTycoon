@@ -38,8 +38,8 @@ The main focus was performance optimization through object pooling and clean sep
 - Fruits placed into machines are also recycled back into the pool after processing.
 - This reduces garbage collection spikes and improves runtime performance.
 
-💾 File-Based Save System
-- Player progression is stored using a file-based save/load system.
+💾 File Based Save System
+- Player progression is stored using a file based save/load system.
 - Game data is written to and read from persistent storage.
 - Runtime data is synchronized via a Load → Apply pattern.
 
@@ -49,7 +49,7 @@ The main focus was performance optimization through object pooling and clean sep
 - Customer queue system
 - Payment & cash desk logic
 - Data synchronization layer
-- State-based production checks
+- State based production checks
 
 🎯 Focus
 - This project emphasizes:
