@@ -4,6 +4,8 @@ Fruit Shop Tycoon – Unity Mobile Simulation Game
 Due to licensing restrictions, third party assets are excluded from this repository.The project contains scripts and core systems only.This project was built to practice system architecture design in idle/tycoon games.
 The main focus was performance optimization through object pooling and clean separation of production validation logic from execution logic.
 
+Gameplay Video Showcase : https://www.youtube.com/watch?v=JjmhD6DJBo8&list=PLeUQ9Opn9i7PpZXLhEPG_rDb0LjjYapMA&index=12
+
 🎮 Core Gameplay
 - The player purchases and plants fruit trees using in game currency.
 - Trees produce fruits over time.
