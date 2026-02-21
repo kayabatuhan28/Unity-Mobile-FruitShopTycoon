@@ -12,10 +12,10 @@ Gameplay Video Showcase : https://www.youtube.com/watch?v=JjmhD6DJBo8&list=PLeUQ
 - Machines process fruits into fruit juice products.
 - Produced juices are served to customers to generate income.
 - The game includes multiple progression mechanics:
-Tree Upgrades : Production speed improvements / Efficiency scaling
-Machine Upgrades : Processing speed improvements / Production efficiency
-Player Upgrades : Movement speed / Carry Capacity
-Customer Upgrades : Customer capacity / Flow & queue management improvements
+- Tree Upgrades : Production speed improvements / Efficiency scaling
+- Machine Upgrades : Processing speed improvements / Production efficiency
+- Player Upgrades : Movement speed / Carry Capacity
+- Customer Upgrades : Customer capacity / Flow & queue management improvements
 - Object Pooling System
 - File Based Save System
 - Slot management system
